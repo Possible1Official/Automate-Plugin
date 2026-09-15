@@ -17,7 +17,7 @@ The bridge runs locally in Termux, exposes a small MCP server, and converts vali
 - No Python packages beyond the standard library
 - Built-in compiler self-test
 
-## Supported recipes
+## Supported recipes(YET!)
 
 | Recipe | Parameters | Result |
 | --- | --- | --- |
