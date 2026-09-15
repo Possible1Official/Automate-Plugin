@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.automate_bridge_token
+.automate_bridge_url_key
+generated/
+*.flo
+.DS_Store
